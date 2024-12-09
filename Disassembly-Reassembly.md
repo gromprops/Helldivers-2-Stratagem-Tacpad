@@ -69,7 +69,8 @@
 </ol>
 <p>At this point, the Tacpad is fully disassembled and ready for sanding, priming, and painting.</p>
 <h2 id="reassembly-instructions"><strong>Reassembly Instructions</strong></h2>
-<p><a href="https://www.youtube.com/watch?v=AuhXsXbZYts"><img src="https://img.youtube.com/vi/AuhXsXbZYts/0.jpg" alt="Tacpad Reassembly Video"></a></p>
+<p><strong>Reassembly Video</strong><br>
+<a href="https://www.youtube.com/watch?v=AuhXsXbZYts"><img src="https://img.youtube.com/vi/AuhXsXbZYts/0.jpg" alt="Tacpad Reassembly Video"></a></p>
 <ol>
 <li>
 <p><strong>Reattach Speaker Cover</strong></p>
