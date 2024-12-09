@@ -27,6 +27,17 @@
 <p><strong>Power and Charging</strong><br>
 The Tacpad includes a built-in battery and micro-USB charging port. Charge it fully before use. The charging indicator LED shown below will turn on when USB power is detected.</p>
 <p>Use the power switch shown below to power on the Tacpad.</p>
+<p><img src="https://imgur.com/ufXQzsC" alt="Tacpad Rear View"></p>
+<h2 id="features--operation">Features &amp; Operation</h2>
+<p><strong>Primary Operation</strong><br>
+The touchscreen interface provides arrow keys for entering Stratagem sequences. When the entered sequence matches an equipped Stratagem, the Tacpad will signal activation.</p>
+<ul>
+<li>Press the silver Stratagem button to activate the on-screen arrows.</li>
+<li>Tap the on-screen arrows in the correct sequence.</li>
+<li>Once a matching sequence is entered, the appropriate Stratagem will highlight on the screen and the button LED will start flashing.</li>
+<li>Press the Stratagem button again to de-activate the active Stratagem.</li>
+</ul>
+<p><img src="https://imgur.com/ergSwCE" alt="enter image description here"></p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
