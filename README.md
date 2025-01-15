@@ -5,7 +5,7 @@
 
 <h1 id="helldivers-2-stratagem-tacpad">Helldivers 2 Stratagem Tacpad</h1>
 <h2 id="introduction">Introduction</h2>
-<p>Thank you for purchasing the Stratagem Tacpad! This interactive cosplay prop is inspired by the Helldivers games. It simulates the in-game process of calling in support Stratagems with arrow-key commands. This readme will guide you through operation and troubleshooting.</p>
+<p>Welcome to the Stratagem Tacpad Readme! This interactive cosplay prop is inspired by the Helldivers games. It simulates the in-game process of calling in support Stratagems with arrow-key commands. This readme will guide you through operation and troubleshooting.</p>
 <p><strong>Please Note:</strong></p>
 <ul>
 <li>This device is a fan-made replica and is not official Helldivers merchandise.</li>
