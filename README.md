@@ -5,7 +5,7 @@
 
 <h1 id="helldivers-2-stratagem-tacpad">Helldivers 2 Stratagem Tacpad</h1>
 <h2 id="introduction">Introduction</h2>
-<p>Thank you for purchasing the Stratagem Tacpad! This interactive cosplay prop is inspired by the Helldivers games. It simulates the in-game process of calling in support Stratagems with arrow-key commands. This readme will guide you through operation and troubleshooting.</p>
+<p>Welcome to the Stratagem Tacpad Readme! This interactive cosplay prop is inspired by the Helldivers games. It simulates the in-game process of calling in support Stratagems with arrow-key commands. This readme will guide you through operation and troubleshooting.</p>
 <p><strong>Please Note:</strong></p>
 <ul>
 <li>This device is a fan-made replica and is not official Helldivers merchandise.</li>
@@ -50,13 +50,18 @@ The Tacpad allows you to select and store up to 4 equipped Stratagems at startup
 <p><strong>Settings Mode</strong><br>
 To access Tacpad settings, press the gear button in the menu bar.</p>
 <ul>
+<li><strong>Firmware Version: </strong> The currently loaded firmware version is displayed at the top of the Settings menu</li>
 <li><strong>Volume:</strong> Use the +/- buttons to adjust the volume.</li>
-<li><strong>Stratagem Randomization:</strong> Select ON to load random Stratagems on every boot-up.</li>
+<li><strong>Random Stratagems:</strong> Toggle on to load random Stratagems on every boot-up.</li>
+<li><strong>Random Player:</strong> Toggle on to generate a random Player Tag and Super Destroyer name on every boot-up.</li>
+<li><strong>Player Tag:</strong> Previews the currently stored Player Tag. Pressing the ">" button will open the Player Tag Selection menu.</li>
+<li><strong>Super Destroyer:</strong> Previews the currently stored Super Destroyer name. Pressing the ">" buttons will open the Super Destroyer Prefix and Suffix Selection menus respectively.</li>
+
 </ul>
 <p><strong>Software Updates</strong><br>
 All updates are free and simple to install. New firmware updates will be made available from the Github repository.</p>
 <ul>
-<li>Download the newest firmware (.uf2 file) from Github.</li>
+<li>Download the newest firmware (.uf2 file) release from [Github](https://github.com/gromprops/Helldivers-2-Stratagem-Tacpad/releases). </li>
 <li>Connect the Tacpad to a computer via the supplied USB cable.</li>
 <li>Press and hold the reset button next to the USB plug while switching on the Tacpad.</li>
 <li>A USB storage device called RP2350 will appear on the connected computer.</li>
@@ -76,6 +81,5 @@ Stay tuned for additional features. Follow the official <a href="https://www.ins
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzkzMDkwNTYsLTE5Mjg2MDQxMTVdfQ
-==
+eyJoaXN0b3J5IjpbLTk5NTQzMjc3MiwtMTkyODYwNDExNV19
 -->
