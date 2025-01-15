@@ -10,6 +10,7 @@
 <ul>
 <li>This device is a fan-made replica and is not official Helldivers merchandise.</li>
 <li>Read through all instructions before operation.</li>
+<li>See the <a href="https://github.com/gromprops/Helldivers-2-Stratagem-Tacpad/blob/main/Disassembly-Reassembly.md">Assembly/Disassembly Guide</a> for instructions for proper disassembly/reassembly. This will be necessary to paint the housing.</li>
 </ul>
 <p><strong>Table of Contents</strong></p>
 <ol>
