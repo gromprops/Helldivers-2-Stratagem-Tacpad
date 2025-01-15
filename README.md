@@ -61,7 +61,7 @@ To access Tacpad settings, press the gear button in the menu bar.</p>
 <p><strong>Software Updates</strong><br>
 All updates are free and simple to install. New firmware updates will be made available from the Github repository.</p>
 <ul>
-<li>Download the newest firmware (.uf2 file) release from [Github](https://github.com/gromprops/Helldivers-2-Stratagem-Tacpad/releases). </li>
+<li>Download the newest firmware (.uf2 file) release from <a href="https://github.com/gromprops/Helldivers-2-Stratagem-Tacpad/releases">here</a>. </li>
 <li>Connect the Tacpad to a computer via the supplied USB cable.</li>
 <li>Press and hold the reset button next to the USB plug while switching on the Tacpad.</li>
 <li>A USB storage device called RP2350 will appear on the connected computer.</li>
@@ -81,5 +81,6 @@ Stay tuned for additional features. Follow the official <a href="https://www.ins
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTQzMjc3MiwtMTkyODYwNDExNV19
+eyJoaXN0b3J5IjpbNDc3MzYxMzkxLC05OTU0MzI3NzIsLTE5Mj
+g2MDQxMTVdfQ==
 -->
