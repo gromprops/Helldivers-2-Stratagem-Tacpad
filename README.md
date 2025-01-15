@@ -56,11 +56,11 @@ To access Tacpad settings, press the gear button in the menu bar.</p>
 <p><strong>Software Updates</strong><br>
 All updates are free and simple to install. New firmware updates will be made available from the Github repository.</p>
 <ul>
-<li>Download the newest firmware (.bin file) from Github.</li>
+<li>Download the newest firmware (.uf2 file) from Github.</li>
 <li>Connect the Tacpad to a computer via the supplied USB cable.</li>
-<li>Press and hold the reset button shown below while powering on the Tacpad.</li>
-<li>A USB storage device called RP2350 should appear on the connected computer.</li>
-<li>Drag the .bin file into the USB storage device. Once the transfer is complete, the Tacpad will automatically boot with the new firmware.</li>
+<li>Press and hold the reset button next to the USB plug while switching on the Tacpad.</li>
+<li>A USB storage device called RP2350 will appear on the connected computer.</li>
+<li>Drag the .uf2 file into the USB storage device. Once the transfer is complete, the Tacpad will automatically boot with the new firmware.</li>
 </ul>
 <h2 id="maintenance--troubleshooting">Maintenance &amp; Troubleshooting</h2>
 <ul>
@@ -76,5 +76,6 @@ Stay tuned for additional features. Follow the official <a href="https://www.ins
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjg2MDQxMTVdfQ==
+eyJoaXN0b3J5IjpbLTE2MzkzMDkwNTYsLTE5Mjg2MDQxMTVdfQ
+==
 -->
