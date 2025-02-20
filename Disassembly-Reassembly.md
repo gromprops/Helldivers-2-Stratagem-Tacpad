@@ -4,7 +4,9 @@
 ---
 
 <h1 id="stratagem-tacpad-disassembly-and-reassembly-guide">Stratagem Tacpad Disassembly and Reassembly Guide</h1>
-<p>This guide explains how to disassemble and reassemble the Stratagem Tacpad for painting or maintenance. Follow each step carefully to avoid damaging the device. For visual reference, please refer to the accompanying reassembly video.</p>
+<p>This guide explains how to disassemble and reassemble the Stratagem Tacpad for painting or maintenance. Follow each step carefully to avoid damaging the device. For visual reference, please refer to the image below and accompanying reassembly video.</p>
+<p><strong>Included Parts</strong><br>
+<img src="https://i.imgur.com/lLkxBgZ.jpeg" alt="Parts with associated plug lables"></p>
 <hr>
 <h2 id="disassembly-instructions"><strong>Disassembly Instructions</strong></h2>
 <ol>
@@ -18,7 +20,7 @@
 <li>
 <p><strong>Remove Backplate</strong></p>
 <ul>
-<li>Use the provided 1.5mm Allen key to unscrew the 4 screws securing the backplate. Set screws aside safely.</li>
+<li>Use the provided 1.5mm hex key to unscrew the 4 screws securing the backplate. Set screws aside safely.</li>
 </ul>
 </li>
 <li>
