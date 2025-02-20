@@ -11,6 +11,8 @@
 <a href="https://github.com/gromprops/Helldivers-2-Stratagem-Tacpad/blob/main/STL/HD2%20-%20Tacpad%20-%20Backplate%20v%201.1.stl" title="HD2 - Tacpad - Backplate v 1.1.stl">HD2 - Tacpad - Backplate v 1.1.stl</a><br>
 <a href="https://github.com/gromprops/Helldivers-2-Stratagem-Tacpad/blob/main/STL/HD2%20-%20Tacpad%20-%20Speaker%20Housing%20v1.stl" title="HD2 - Tacpad - Speaker Housing v1.stl">HD2 - Tacpad - Speaker Housing v1.stl</a><br>
 <a href="https://github.com/gromprops/Helldivers-2-Stratagem-Tacpad/blob/main/STL/HD2%20-%20Tacpad%20-%20Speaker%20Cover%20v1.1.stl" title="HD2 - Tacpad - Speaker Cover v1.1.stl">HD2 - Tacpad - Speaker Cover v1.1.stl</a></p>
+<h2 id="recommended-print-orientation"><strong>Recommended Print Orientation</strong></h2>
+<p><img src="https://imgur.com/g0ihYyB" alt="Recommended STL orientation"></p>
 <h2 id="print-settings"><strong>Print Settings</strong></h2>
 <p><strong>Body:</strong></p>
 <ul>
