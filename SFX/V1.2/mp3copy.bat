@@ -25,8 +25,8 @@ if not exist %TARGET_DRIVE%\ (
     goto ask_drive
 )
 
-REM === Check if the drive is removable (prevents formatting system drives) ===
-for /f "tokens=2 delims==" %%A in ('wmic logicaldisk where "DeviceID='%TARGET_DRIVE%'" get DriveType /value 2^>nul ^| findstr "DriveType"') do (
+REM === Check if the drive is removable using PowerShell ===
+for /f "usebackq tokens=*" %%A in (`powershell -NoProfile -Command "(Get-Volume -DriveLetter '%TARGET_DRIVE:~0,1%').DriveType"` ) do (
     set "DRIVE_TYPE=%%A"
 )
 
@@ -37,7 +37,7 @@ if not defined DRIVE_TYPE (
     exit /b 1
 )
 
-if %DRIVE_TYPE% NEQ 2 (
+if /i not "%DRIVE_TYPE%"=="Removable" (
     echo ERROR: The drive %TARGET_DRIVE% is NOT a removable USB drive!
     echo Formatting is only allowed for removable drives.
     pause
@@ -46,9 +46,8 @@ if %DRIVE_TYPE% NEQ 2 (
 
 echo Detected: %TARGET_DRIVE% is a removable USB drive.
 
-REM === Get drive size in MB (correcting WMIC behavior) ===
-for /f "tokens=2 delims==" %%A in ('wmic logicaldisk where "DeviceID='%TARGET_DRIVE%'" get Size /value 2^>nul ^| findstr "Size"') do (
-    set /a DRIVE_SIZE_MB=%%A / 1048576
+for /f "usebackq tokens=*" %%A in (`powershell -NoProfile -Command "(Get-Volume -DriveLetter '%TARGET_DRIVE:~0,1%').Size / 1MB"` ) do (
+    set /a DRIVE_SIZE_MB=%%A
 )
 
 REM === Ensure drive size was correctly retrieved ===
