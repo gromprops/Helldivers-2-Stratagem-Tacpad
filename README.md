@@ -76,6 +76,7 @@ All updates are free and simple to install. New firmware updates will be made av
 </ul>
 
 <p><strong>Wireless Module Installation</strong><br>
+A wireless module is required for use of the Wireless Stratagem Ball companion device. Follow these instructions for proper installation.
 
 <h2 id="maintenance--troubleshooting">Maintenance &amp; Troubleshooting</h2>
 <ul>
@@ -91,5 +92,5 @@ Stay tuned for additional features. Follow the official <a href="https://www.ins
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjI3OTUyMywxNDMxNjc4MjJdfQ==
+eyJoaXN0b3J5IjpbLTEwMjM2NjgzMTYsMTQzMTY3ODIyXX0=
 -->
