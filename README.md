@@ -58,10 +58,11 @@ To access Tacpad settings, press the gear button in the menu bar. The current fi
 <li><strong>Pair Button:</strong> Starts pairing mode</li>
 <li><strong>Ch:</strong> Shows the currently paired channel ID.</li>
 </ul>
-<li><strong>Random Player:</strong> Toggle on to generate a random Player Tag and Super Destroyer name on every boot-up.</li>
+<li><strong>Random Player:</strong> Toggle on to generate a random Player Tag and Super Destroyer name on every boot-up. If toggled off, a custom Player Tag and Super Destroyer name is selectable:</li>
 <ul>
 <li><strong>Player Tag:</strong> Previews the currently stored Player Tag. Pressing the “&gt;” button will open the Player Tag Selection menu.</li>
-<li><strong>Super Destroyer:</strong> Previews the currently stored Super Destroyer name. Pressing the “&gt;”">" buttons will open the Super Destroyer Prefix and Suffix Selection menus respectively.</li>
+<li><strong>Super Destroyer:</strong> Previews the currently stored Super Destroyer name. Pressing the ">" buttons will open the Super Destroyer Prefix and Suffix Selection menus respectively.</li>
+</ul>
 </ul>
 <p><strong>Software Updates</strong><br>
 All updates are free and simple to install. New firmware updates will be made available from the Github repository.</p>
@@ -87,5 +88,5 @@ Stay tuned for additional features. Follow the official <a href="https://www.ins
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzUzNTU3NCwxNDMxNjc4MjJdfQ==
+eyJoaXN0b3J5IjpbLTQyMjAxNDAwOCwxNDMxNjc4MjJdfQ==
 -->
