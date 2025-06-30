@@ -80,8 +80,8 @@ A wireless module is required for use of the Wireless Stratagem Ball companion d
 <ul>
 <li>Open the back Tacpad casing by unscrewing the four screws.</li>
 <li>Locate the wireless module slot and 4-pin connector socket shown below:</li>
-<li>Position the wireless module into .</li>
-<li>Press and hold the reset button on the back next to the USB plug while switching on the Tacpad.</li>
+<li>Position the wireless module into its slot with the antenna facing  <i>up</i>. The left edge of the module should slide into a small notch in the wall of the Tacpad housing.</li>
+<li>Plug the module cable into the socket.</li>
 <li>A USB storage device called RP2350 should appear on the connected computer.</li>
 <li>Drag the .uf2 file into the USB storage device. Once the transfer is complete, the Tacpad will automatically boot with the new firmware.</li>
 </ul>
@@ -100,5 +100,5 @@ Stay tuned for additional features. Follow the official <a href="https://www.ins
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODkzODYzLDE0MzE2NzgyMl19
+eyJoaXN0b3J5IjpbMzA2MTQ4NSwxNDMxNjc4MjJdfQ==
 -->
