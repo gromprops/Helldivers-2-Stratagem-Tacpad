@@ -49,13 +49,11 @@ The Tacpad allows you to select and store up to 4 equipped Stratagems at startup
 <img src="https://imgur.com/iuoc0lX.jpeg" alt="Tacpad Loadout Mode"></li>
 </ul>
 <p><strong>Settings Mode</strong><br>
-To access Tacpad settings, press the gear button in the menu bar.</p>
+To access Tacpad settings, press the gear button in the menu bar. The current firmware version is displayed at the top of the Settings menu</p>
 <ul>
 <li><strong>Volume:</strong> Use the +/- buttons to adjust the volume.</li>
 <li><strong>Stratagem Randomization:</strong> Toggle on to load random Stratagems on every boot-up.</li>
 <li><strong>Stratagem Ball:</strong> Toggle on to enable use of the wireless Stratagem Ball companion device. The pairing button starts pairing mode.</li>
-<li><strong>Firmware Version:</strong> The currently loaded firmware version is displayed at the top of the Settings menu</li>
-<li><strong>Volume:</strong> Use the  buttons to adjust the volume.</li>
 <li><strong>Random Player:</strong> Toggle on to generate a random Player Tag and Super Destroyer name on every boot-up.</li>
 <li><strong>Player Tag:</strong> Previews the currently stored Player Tag. Pressing the “&gt;” button will open the Player Tag Selection menu.</li>
 <li><strong>Super Destroyer:</strong> Previews the currently stored Super Destroyer name. Pressing the “&gt;”">" buttons will open the Super Destroyer Prefix and Suffix Selection menus respectively.</li>
@@ -84,5 +82,5 @@ Stay tuned for additional features. Follow the official <a href="https://www.ins
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2Mjk5MTg1LDE0MzE2NzgyMl19
+eyJoaXN0b3J5IjpbMTUyMDI1Mjc0OCwxNDMxNjc4MjJdfQ==
 -->
