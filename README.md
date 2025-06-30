@@ -55,7 +55,7 @@ To access Tacpad settings, press the gear button in the menu bar.</p>
 <li><strong>Stratagem Randomization:</strong> Select ON to load random Stratagems on every boot-up.</li>
 <li><strong>Firmware Version:</strong> The currently loaded firmware version is displayed at the top of the Settings menu</li>
 <li><strong>Volume:</strong> Use the  buttons to adjust the volume.</li>
-<li><strong>Random Stratagems:</strong> Toggle on to load random Stratagems on every boot-up.</li>
+
 <li><strong>Random Player:</strong> Toggle on to generate a random Player Tag and Super Destroyer name on every boot-up.</li>
 <li><strong>Player Tag:</strong> Previews the currently stored Player Tag. Pressing the “&gt;” button will open the Player Tag Selection menu.</li>
 <li><strong>Super Destroyer:</strong> Previews the currently stored Super Destroyer name. Pressing the “&gt;”">" buttons will open the Super Destroyer Prefix and Suffix Selection menus respectively.</li>
@@ -84,5 +84,5 @@ Stay tuned for additional features. Follow the official <a href="https://www.ins
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTY3ODIyXX0=
+eyJoaXN0b3J5IjpbLTQ3MDYyMzY2LDE0MzE2NzgyMl19
 -->
