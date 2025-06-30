@@ -78,12 +78,12 @@ All updates are free and simple to install. New firmware updates will be made av
 <p><strong>Wireless Module Installation</strong><br>
 A wireless module is required for use of the Wireless Stratagem Ball companion device. Follow these instructions for proper installation.</p>
 <ul>
-<li>Open the back Tacpad casing by unscrewing the four screws.</li>
+<li>Power down the Tacpad and open the back casing by unscrewing the four screws.</li>
 <li>Locate the wireless module slot and 4-pin connector socket shown below:</li>
 <li>Position the wireless module into its slot with the antenna facing  <i>up</i>. The left edge of the module should slide into a small notch in the wall of the Tacpad housing.</li>
 <li>Plug the module cable into the socket.</li>
-<li>A USB storage device called RP2350 should appear on the connected computer.</li>
-<li>Drag the .uf2 file into the USB storage device. Once the transfer is complete, the Tacpad will automatically boot with the new firmware.</li>
+<li>Reinstall the back casing.</li>
+<li>Power on the Tacpad and ensure that</li>
 </ul>
 
 <h2 id="maintenance--troubleshooting">Maintenance &amp; Troubleshooting</h2>
@@ -100,5 +100,5 @@ Stay tuned for additional features. Follow the official <a href="https://www.ins
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2MTQ4NSwxNDMxNjc4MjJdfQ==
+eyJoaXN0b3J5IjpbNzA3MjMyOTgxLDE0MzE2NzgyMl19
 -->
