@@ -74,6 +74,9 @@ All updates are free and simple to install. New firmware updates will be made av
 <li>A USB storage device called RP2350 should appear on the connected computer.</li>
 <li>Drag the .uf2 file into the USB storage device. Once the transfer is complete, the Tacpad will automatically boot with the new firmware.</li>
 </ul>
+
+<p><strong>Wireless Module Installation</strong><br>
+
 <h2 id="maintenance--troubleshooting">Maintenance &amp; Troubleshooting</h2>
 <ul>
 <li><strong>Cleaning:</strong> Gently wipe the Tacpad’s exterior with a soft, dry cloth.</li>
@@ -88,5 +91,5 @@ Stay tuned for additional features. Follow the official <a href="https://www.ins
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjAxNDAwOCwxNDMxNjc4MjJdfQ==
+eyJoaXN0b3J5IjpbMTM5NjI3OTUyMywxNDMxNjc4MjJdfQ==
 -->
