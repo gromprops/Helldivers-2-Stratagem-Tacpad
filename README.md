@@ -84,7 +84,7 @@ A wireless module is required for use of the Wireless Stratagem Ball companion d
 <li>Plug the module cable into the socket.</li>
 <li>Reinstall the back casing.</li>
 <li>Ensure that the Tacpad firmware is updated to at least v1.2.</li>
-<li>Enable the <strong>Stratagem Ball</strong> setting</li>
+<li>Enable the <strong>Stratagem Ball</strong> setting and pair with a Stratagem Ball.</li>
 </ul>
 
 <h2 id="maintenance--troubleshooting">Maintenance &amp; Troubleshooting</h2>
@@ -101,5 +101,5 @@ Stay tuned for additional features. Follow the official <a href="https://www.ins
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwNzk4NTM5LDE0MzE2NzgyMl19
+eyJoaXN0b3J5IjpbLTE4ODkwMjAxNzYsMTQzMTY3ODIyXX0=
 -->
