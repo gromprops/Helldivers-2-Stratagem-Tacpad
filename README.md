@@ -80,7 +80,7 @@ All updates are free and simple to install. New firmware updates will be made av
 <ul>
 <li>Power down the Tacpad and open the back casing by unscrewing the four screws.</li>
 <li>Locate the wireless module slot and 4-pin connector socket shown below:</li>
-enter image description here
+![Wireless module expansion socket](https://imgur.com/1WwZ17L)
 <li>Position the wireless module into its slot with the antenna facing  <i>up</i>. The left edge of the module should slide into a small notch in the wall of the Tacpad housing.</li>
 <li>Plug the module cable into the socket.</li>
 <li>Reinstall the back casing.</li>
@@ -102,6 +102,6 @@ Stay tuned for additional features. Follow the official <a href="https://www.ins
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzNzg1NDQ3LC04NDM3NDk2MDYsLTE4OD
-kwMjAxNzYsMTQzMTY3ODIyXX0=
+eyJoaXN0b3J5IjpbMjEzODAxNjMyNiw2NDM3ODU0NDcsLTg0Mz
+c0OTYwNiwtMTg4OTAyMDE3NiwxNDMxNjc4MjJdfQ==
 -->
