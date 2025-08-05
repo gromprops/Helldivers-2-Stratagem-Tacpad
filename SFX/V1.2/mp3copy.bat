@@ -48,6 +48,8 @@ echo Detected: %TARGET_DRIVE% is a removable USB drive.
 
 for /f "usebackq tokens=*" %%A in (`powershell -NoProfile -Command "(Get-Volume -DriveLetter '%TARGET_DRIVE:~0,1%').Size / 1MB"` ) do (
     set /a DRIVE_SIZE_MB=%%A
+for /f "usebackq tokens=*" %%A in (`powershell -NoProfile -Command "(Get-Volume -DriveLetter '%TARGET_DRIVE:~0,1%').Size / 1MB"` ) do (
+    set /a DRIVE_SIZE_MB=%%A
 )
 
 REM === Ensure drive size was correctly retrieved ===
