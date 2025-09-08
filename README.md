@@ -75,6 +75,20 @@ All updates are free and simple to install. New firmware updates will be made av
 <li>Drag the .uf2 file into the USB storage device. Once the transfer is complete, the Tacpad will automatically boot with the new firmware.</li>
 </ul>
 
+<h3 id="usb-controller">USB Controller Configuration</h3>
+<p>USB Control</p>
+<ul>
+<li>Power down the Tacpad and open the back casing by unscrewing the four screws.</li>
+<li>Locate the wireless module slot and 4-pin connector socket shown below:</li>
+<p><img src="https://imgur.com/1WwZ17L.jpeg" alt="Wireless module expansion connector"></p>
+<li>Position the wireless module into its slot with the antenna facing  <i>up</i>. The left edge of the module should slide into a small notch in the wall of the Tacpad housing.</li>
+<p><img src="https://imgur.com/IZ1NCFa.jpeg" alt="Properly installed wireless module"></p>
+<li>Plug the module cable into the socket.</li>
+<li>Reinstall the back casing.</li>
+<li>Ensure that the Tacpad firmware is updated to at least v1.2.</li>
+<li>Enable the <strong>Stratagem Ball</strong> setting and pair with a Stratagem Ball.</li>
+</ul>
+
 <h3 id="wireless-module-installation">Wireless Module Installation</h3>
 <p>A wireless module is required for use of the Wireless Stratagem Ball companion device. Follow these instructions for proper installation.</p>
 <ul>
@@ -103,7 +117,7 @@ Stay tuned for additional features. Follow the official <a href="https://www.ins
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzODk0Mzg2LDMyMDE2NTQ0Niw2NDM3OD
-U0NDcsLTg0Mzc0OTYwNiwtMTg4OTAyMDE3NiwxNDMxNjc4MjJd
-fQ==
+eyJoaXN0b3J5IjpbMTAyODg1Nzc2NSw0MTM4OTQzODYsMzIwMT
+Y1NDQ2LDY0Mzc4NTQ0NywtODQzNzQ5NjA2LC0xODg5MDIwMTc2
+LDE0MzE2NzgyMl19
 -->
