@@ -116,14 +116,14 @@ A wireless module is required to use the Stratagem Ball companion device.
 ## Support
 Stay tuned for new features.  
 - Follow [Gromlon Props on Instagram](https://www.instagram.com/gromlonprops/) for updates.  
-- For questions or issues, contact via [Etsy shop messaging](https://www.GromlonPr).  
+- For questions or issues, contact via [GromlonProps Contact](https://gromlonprops.com/pages/contact).  
 
 ---
 
 *Written with [StackEdit](https://stackedit.io/).*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDk4NzQ2MywtMTQ2NDE2OTYwMyw0MT
-M4OTQzODYsMzIwMTY1NDQ2LDY0Mzc4NTQ0NywtODQzNzQ5NjA2
-LC0xODg5MDIwMTc2LDE0MzE2NzgyMl19
+eyJoaXN0b3J5IjpbLTE3NzE3MDU2MDYsLTE0NjQxNjk2MDMsND
+EzODk0Mzg2LDMyMDE2NTQ0Niw2NDM3ODU0NDcsLTg0Mzc0OTYw
+NiwtMTg4OTAyMDE3NiwxNDMxNjc4MjJdfQ==
 -->
