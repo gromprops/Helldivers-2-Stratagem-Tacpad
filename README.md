@@ -85,6 +85,32 @@ Updates are free and easy to install.
 6. Drag the `.uf2` file into it. The Tacpad will reboot automatically with the update.  
 
 ---
+## USB Controller Configuration
+
+The Tacpad can function as a **USB controller** for *Helldivers 2* on PC.  
+This mode allows you to input Stratagem sequences directly in-game using the Tacpad’s buttons.
+
+### Requirements
+- A USB connection between the Tacpad and your PC.  
+- Correct key bindings configured in the game settings.  
+
+### Game Key Bindings
+To use this feature, configure your in-game controls as follows:
+- **Stratagem Up** → Up Arrow  
+- **Stratagem Left** → Left Arrow  
+- **Stratagem Down** → Down Arrow  
+- **Stratagem Right** → Right Arrow  
+- **Open Stratagem List** → **CTRL**  
+
+### Using USB Controller Mode
+1. Connect the Tacpad to your PC via USB.  
+2. Hold the **Stratagem Button** to activate input mode.  
+3. Use the Tacpad arrow buttons to enter Stratagem sequences.  
+4. Release the Stratagem Button to complete the input.  
+
+> **Note:** This feature requires the correct key bindings as listed above. If the keys are mapped differently in-game, the Tacpad will not function as intended.
+
+
 
 ## Wireless Module Installation
 A wireless module is required to use the Stratagem Ball companion device.
@@ -123,7 +149,7 @@ Stay tuned for new features.
 *Written with [StackEdit](https://stackedit.io/).*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzE3MDU2MDYsLTE0NjQxNjk2MDMsND
-EzODk0Mzg2LDMyMDE2NTQ0Niw2NDM3ODU0NDcsLTg0Mzc0OTYw
-NiwtMTg4OTAyMDE3NiwxNDMxNjc4MjJdfQ==
+eyJoaXN0b3J5IjpbNTM4NjA2Mzg4LC0xNzcxNzA1NjA2LC0xND
+Y0MTY5NjAzLDQxMzg5NDM4NiwzMjAxNjU0NDYsNjQzNzg1NDQ3
+LC04NDM3NDk2MDYsLTE4ODkwMjAxNzYsMTQzMTY3ODIyXX0=
 -->
