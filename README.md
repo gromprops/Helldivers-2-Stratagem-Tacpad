@@ -76,7 +76,7 @@ All updates are free and simple to install. New firmware updates will be made av
 </ul>
 
 <h3 id="usb-controller">USB Controller Configuration</h3>
-<p>USB Control</p>
+<p>The controller function requires a USB connection between the Tacpad and the PC.</p>
 <ul>
 <li>Power down the Tacpad and open the back casing by unscrewing the four screws.</li>
 <li>Locate the wireless module slot and 4-pin connector socket shown below:</li>
@@ -117,7 +117,7 @@ Stay tuned for additional features. Follow the official <a href="https://www.ins
 </blockquote>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODg1Nzc2NSw0MTM4OTQzODYsMzIwMT
-Y1NDQ2LDY0Mzc4NTQ0NywtODQzNzQ5NjA2LC0xODg5MDIwMTc2
-LDE0MzE2NzgyMl19
+eyJoaXN0b3J5IjpbLTE0NjQxNjk2MDMsNDEzODk0Mzg2LDMyMD
+E2NTQ0Niw2NDM3ODU0NDcsLTg0Mzc0OTYwNiwtMTg4OTAyMDE3
+NiwxNDMxNjc4MjJdfQ==
 -->
