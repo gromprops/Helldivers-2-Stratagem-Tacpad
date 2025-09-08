@@ -13,10 +13,11 @@ This interactive cosplay prop is inspired by the *Helldivers* games. It simulate
 ## Table of Contents
 1. [Safety & Care Instructions](#safety--care-instructions)  
 2. [Power and Charging](#power-and-charging)  
-3. [Features & Operation](#features--operation)  
-4. [Wireless Module Installation](#wireless-module-installation)  
-5. [Maintenance & Troubleshooting](#maintenance--troubleshooting)  
-6. [Support](#support)  
+3. [Features & Operation](#features--operation)
+4.  [USB Controller Configuration](#usb-controller-configuration)  
+5. [Wireless Module Installation](#wireless-module-installation)  
+6. [Maintenance & Troubleshooting](#maintenance--troubleshooting)  
+7. [Support](#support)  
 
 ---
 
@@ -149,7 +150,7 @@ Stay tuned for new features.
 *Written with [StackEdit](https://stackedit.io/).*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4NjA2Mzg4LC0xNzcxNzA1NjA2LC0xND
+eyJoaXN0b3J5IjpbNzE2MzAwMjUxLC0xNzcxNzA1NjA2LC0xND
 Y0MTY5NjAzLDQxMzg5NDM4NiwzMjAxNjU0NDYsNjQzNzg1NDQ3
 LC04NDM3NDk2MDYsLTE4ODkwMjAxNzYsMTQzMTY3ODIyXX0=
 -->
